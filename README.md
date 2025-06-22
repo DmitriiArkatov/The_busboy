@@ -14,8 +14,8 @@
 
 1. Клонируйте репозиторий:
    ```bash
-   git clone https://github.com/ВАШ_ЛОГИН/ИМЯ_РЕПОЗИТОРИЯ.git
-   cd ИМЯ_РЕПОЗИТОРИЯ
+   https://github.com/DmitriiArkatov/The_busboy.git
+   cd The_busboy/
    ```
 2. Создайте виртуальное окружение:
    ```bash
