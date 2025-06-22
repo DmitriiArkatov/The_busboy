@@ -1,0 +1,200 @@
+[
+    {
+        "id": 1,
+        "name": "Сырные палочки с чесночным соусом",
+        "category": "Закуски",
+        "main_category": "Кухня"
+    },
+    {
+        "id": 2,
+        "name": "Брускетты с томатами и базиликом",
+        "category": "Закуски",
+        "main_category": "Кухня"
+    },
+    {
+        "id": 3,
+        "name": "Мини-пирожки с мясом",
+        "category": "Закуски",
+        "main_category": "Кухня"
+    },
+    {
+        "id": 4,
+        "name": "Картофельное пюре",
+        "category": "Гарнир",
+        "main_category": "Кухня"
+    },
+    {
+        "id": 5,
+        "name": "Рис с овощами",
+        "category": "Гарнир",
+        "main_category": "Кухня"
+    },
+    {
+        "id": 6,
+        "name": "Гречка с грибами",
+        "category": "Гарнир",
+        "main_category": "Кухня"
+    },
+    {
+        "id": 7,
+        "name": "Стейк из говядины",
+        "category": "Горячее",
+        "main_category": "Кухня"
+    },
+    {
+        "id": 8,
+        "name": "Курица терияки",
+        "category": "Горячее",
+        "main_category": "Кухня"
+    },
+    {
+        "id": 9,
+        "name": "Лосось на гриле",
+        "category": "Горячее",
+        "main_category": "Кухня"
+    },
+    {
+        "id": 10,
+        "name": "Тирамису",
+        "category": "Десерты",
+        "main_category": "Кухня"
+    },
+    {
+        "id": 11,
+        "name": "Чизкейк Нью-Йорк",
+        "category": "Десерты",
+        "main_category": "Кухня"
+    },
+    {
+        "id": 12,
+        "name": "Панна-котта с ягодным соусом",
+        "category": "Десерты",
+        "main_category": "Кухня"
+    },
+    {
+        "id": 13,
+        "name": "Греческий салат",
+        "category": "Салаты",
+        "main_category": "Кухня"
+    },
+    {
+        "id": 14,
+        "name": "Цезарь с креветками",
+        "category": "Салаты",
+        "main_category": "Кухня"
+    },
+    {
+        "id": 15,
+        "name": "Салат с рукколой и грушей",
+        "category": "Салаты",
+        "main_category": "Кухня"
+    },
+    {
+        "id": 16,
+        "name": "Мохито безалкогольный",
+        "category": "Коктели",
+        "main_category": "Бар"
+    },
+    {
+        "id": 17,
+        "name": "Клубничный дайкири",
+        "category": "Коктели",
+        "main_category": "Бар"
+    },
+    {
+        "id": 18,
+        "name": "Апероль шприц",
+        "category": "Коктели",
+        "main_category": "Бар"
+    },
+    {
+        "id": 19,
+        "name": "Красное вино Merlot",
+        "category": "Алкоголь",
+        "main_category": "Бар"
+    },
+    {
+        "id": 20,
+        "name": "Водка Finlandia",
+        "category": "Алкоголь",
+        "main_category": "Бар"
+    },
+    {
+        "id": 21,
+        "name": "Виски Jack Daniels",
+        "category": "Алкоголь",
+        "main_category": "Бар"
+    },
+    {
+        "id": 22,
+        "name": "Разливное светлое",
+        "category": "Пиво",
+        "main_category": "Бар"
+    },
+    {
+        "id": 23,
+        "name": "Guinness",
+        "category": "Пиво",
+        "main_category": "Бар"
+    },
+    {
+        "id": 24,
+        "name": "Hoegaarden",
+        "category": "Пиво",
+        "main_category": "Бар"
+    },
+    {
+        "id": 25,
+        "name": "Малиновый лимонад",
+        "category": "Лимонады",
+        "main_category": "Бар"
+    },
+    {
+        "id": 26,
+        "name": "Имбирный лимонад с мятой",
+        "category": "Лимонады",
+        "main_category": "Бар"
+    },
+    {
+        "id": 27,
+        "name": "Классический лимонад",
+        "category": "Лимонады",
+        "main_category": "Бар"
+    },
+    {
+        "id": 28,
+        "name": "Чёрный чай с бергамотом",
+        "category": "Чай",
+        "main_category": "Бар"
+    },
+    {
+        "id": 29,
+        "name": "Зелёный чай с жасмином",
+        "category": "Чай",
+        "main_category": "Бар"
+    },
+    {
+        "id": 30,
+        "name": "Травяной сбор",
+        "category": "Чай",
+        "main_category": "Бар"
+    },
+    {
+        "id": 31,
+        "name": "чача с макаронами",
+        "category": "Закуски",
+        "main_category": "Кухня"
+    },
+    {
+        "id": 32,
+        "name": "тако",
+        "category": "Десерты",
+        "main_category": "Кухня"
+    },
+    {
+        "id": 33,
+        "name": "чаки-саки",
+        "category": "Гарниры",
+        "main_category": "Кухня"
+    }
+]
